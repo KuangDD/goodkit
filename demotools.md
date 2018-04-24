@@ -1,5 +1,6 @@
 ## demo工具
-### 莫烦深度学习
+
+### 莫烦DL
 * 各种框架下的深度学习模型demo。
 * deeplearningDemo
 * https://github.com/zhourunlai/deep-learning-demo
