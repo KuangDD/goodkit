@@ -12,7 +12,7 @@
 * https://pypi.python.org/pypi/pypinyin
 
 
-### 中文分词
+### jieba分词
 * 中文分词，关键词提取（tfidf，textrank），词性标注
 * jieba
 * https://github.com/fxsjy/jieba  
@@ -30,7 +30,7 @@
 * https://radimrehurek.com/gensim/index.html
 
 
-### FastText
+### fasttext
 * FastText分类，FastText词向量模型
 * fastText
 * https://github.com/facebookresearch/fastText
@@ -66,7 +66,7 @@
 * https://github.com/amueller/word_cloud
 
 
-### TextRank4ZH
+### 中文textrank
 * 从中文文本中自动提取关键词和摘要。
 * textrank4zh
 * https://github.com/letiantian/TextRank4ZH
