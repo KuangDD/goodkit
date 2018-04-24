@@ -41,3 +41,29 @@
 * pyltp是语言技术平台的Python封装。除了分词之外，还有词性标注、命名实体识别、依存句法分析、语义角色标注等功能。
 * pyltp
 * https://github.com/HIT-SCIR/pyltp
+
+### networkx
+* networkx是画图工具，主要画树和图。
+* networkx
+* https://pypi.org/project/networkx/2.1/
+
+### docx2txt
+* docx转化为文本。
+* docx2txt
+* https://github.com/ankushshah89/python-docx2txt/
+
+### docx2txt
+* docx转化为文本。
+* docx2txt
+* https://github.com/ankushshah89/python-docx2txt/
+
+### wordcloud
+* 绘制云图。
+* wordcloud
+* https://github.com/amueller/word_cloud
+
+### TextRank4ZH
+* 从中文文本中自动提取关键词和摘要。
+* textrank4zh
+* https://github.com/letiantian/TextRank4ZH
+
