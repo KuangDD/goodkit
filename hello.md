@@ -22,3 +22,7 @@ https://github.com/KuangDD/aukit
 https://github.com/KuangDD/phkit
 
 可用这两个工具处理模型外的事情，zhrtvc用aukit和phkit分别承担audio和text模块的工作。
+
+
+<object height="100" width="100" data="https://github.com/KuangDD/zhrtvc/blob/master/files/aliaudio-Aibao-004113.wav"></object>
+
