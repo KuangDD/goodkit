@@ -27,3 +27,12 @@ hello
 
 <object height="100" width="100" data="https://github.com/KuangDD/zhrtvc/blob/master/files/aliaudio-Aibao-004113.wav"></object>
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<embed height="100" width="100" src="https://github.com/KuangDD/zhrtvc/blob/master/files/aliaudio-Aibao-004113.wav"></embed>
+<p><b>注释：</b>浏览器可能需要安装插件以后，才能播放该文件。</p>
+
+</body>
+</html>
